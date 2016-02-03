@@ -3,7 +3,7 @@
 <channel>
 <atom:link href='http://http://angelino.github.io/' rel='self' type='application/rss+xml'/>
 <title>
-Lucas Angelino
+@angelino
 </title>
 <link>
 http://http://angelino.github.io/
@@ -12,17 +12,17 @@ http://http://angelino.github.io/
 This blog is awesome
 </description>
 <lastBuildDate>
-Wed, 03 Feb 2016 15:25:46 -0200
+Wed, 03 Feb 2016 15:58:13 -0200
 </lastBuildDate>
 <generator>
 clj-rss
 </generator>
 <item>
 <guid>
-http://http://angelino.github.io/blog/posts-output/2016-01-07-docs.html
+http://http://angelino.github.io/posts-output/2016-01-07-docs.html
 </guid>
 <link>
-http://http://angelino.github.io/blog/posts-output/2016-01-07-docs.html
+http://http://angelino.github.io/posts-output/2016-01-07-docs.html
 </link>
 <title>
 Quick Start Guide
